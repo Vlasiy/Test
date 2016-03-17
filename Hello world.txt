@@ -1,2 +1,2 @@
-print("Hello word")
-Print("1")gsrtw 4r
+print("Hello word!")
+Print("1")
